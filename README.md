@@ -1,19 +1,91 @@
-# Mohammed - SOC Analyst in Training | Blue Team Security | Microsoft Sentinel
+# Mohammed | SOC Analyst | Blue Team Security | Microsoft Sentinel
 
-I am building practical, hands-on experience in Security Operations Center work, blue team defence, and detection engineering, with a growing focus on Microsoft Sentinel, threat detection, and AI security. This profile documents that learning journey through projects I am genuinely building and completing.
+I am developing practical cybersecurity experience across Security Operations, blue team defence, threat detection, and incident investigation.
 
-## Focus Areas
+My current focus is on building practical SOC capability using Microsoft Sentinel, KQL, Windows and Linux telemetry, MITRE ATT&CK, threat hunting, and incident response. I am also developing skills in AI security and threat modelling.
 
-SOC analysis, blue team security, Microsoft Sentinel, SIEM, KQL, incident response, threat detection, threat hunting, MITRE ATT&CK, Windows and Linux security, Python for cybersecurity, and AI security and threat modelling.
+This GitHub portfolio documents the labs, investigations, detections, tools, and security projects I build as I continue developing those skills.
 
-## What I Am Currently Building
+## Core Focus Areas
 
-A cloud-based SOC lab in Microsoft Sentinel, covering architecture, detection rules, simulated attacks, and investigations. A collection of SOC investigation write-ups and a reusable incident investigation template. A set of AI and LLM threat models mapped to MITRE ATLAS and the OWASP LLM Top 10. A set of Python tools to support log analysis, indicator of compromise handling, and security automation.
+• Security Operations and SOC Analysis
+• Microsoft Sentinel
+• SIEM and Log Analysis
+• KQL
+• Threat Detection
+• Incident Response
+• Threat Hunting
+• MITRE ATT&CK
+• Windows and Linux Security
+• Blue Team Operations
+• Python for Cybersecurity
+• AI Security and Threat Modelling
 
-## How I Work
+## Current Projects
 
-Every repository here reflects work I have actually done. Placeholder folders are labelled as in progress, and content is only added once it has genuinely been built, tested, or investigated. Nothing here is fabricated.
+### Microsoft Sentinel SOC Lab
+
+Building a cloud SOC environment focused on:
+
+• Security log ingestion and analysis
+• KQL detection queries
+• Simulated attack activity
+• Alert investigation
+• Incident timelines
+• MITRE ATT&CK mapping
+• Containment and remediation recommendations
+
+### SOC Investigation Reports
+
+Developing structured investigation reports covering security events such as:
+
+• Phishing
+• Authentication attacks
+• Suspicious PowerShell activity
+• Malware related alerts
+
+Each investigation is designed to demonstrate the full SOC workflow from the initial alert through analysis, verdict, and recommended response.
+
+### AI Security Threat Modelling
+
+Developing threat models for AI and LLM systems using:
+
+• STRIDE
+• MITRE ATLAS
+• OWASP Top 10 for LLM Applications
+
+The goal is to identify realistic attack paths, security weaknesses, and appropriate mitigations within modern AI systems.
+
+### Cybersecurity Python Tools
+
+Building practical Python utilities for:
+
+• Log analysis
+• Indicator of Compromise handling
+• Security automation
+• Network and security analysis
+
+## Practical Training
+
+The `Cybersecurity Labs` repository contains supporting notes and practical exercises from cybersecurity training environments, including TryHackMe.
+
+The focus is on documenting what I learned, how the concepts work, and how they can be applied within realistic security operations.
+
+## Portfolio Approach
+
+I use this GitHub to document practical work as it is completed.
+
+Projects, investigations, detections, and tools are added with supporting evidence such as queries, screenshots, technical analysis, attack mappings, and investigation notes where appropriate.
+
+My goal is to demonstrate not only what I am learning, but how I apply that knowledge to realistic cybersecurity scenarios.
 
 ## Featured Repositories
 
-Microsoft-Sentinel-SOC-Lab, SOC-Investigation-Reports, AI-Security-Threat-Modelling, and Cybersecurity-Python-Tools are pinned below. Cybersecurity-Labs contains supporting notes from practical training environments such as TryHackMe.
+• `Microsoft Sentinel SOC Lab`
+• `SOC Investigation Reports`
+• `AI Security Threat Modelling`
+• `Cybersecurity Python Tools`
+
+Supporting practical work can be found in:
+
+• `Cybersecurity Labs`
