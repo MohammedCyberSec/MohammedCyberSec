@@ -1,4 +1,4 @@
-# Mohammed | SOC Analyst | Blue Team Security | Microsoft Sentinel
+# Mohammed | SOC Analyst | AI Security | Microsoft Sentinel
 
 I am developing practical cybersecurity experience across Security Operations, blue team defence, threat detection, and incident investigation.
 
